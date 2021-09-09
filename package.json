@@ -1,0 +1,23 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "Automate the use of the login and creation of tasks with puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TorresGodoyCarlos/ToDoList.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Carlos Godoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TorresGodoyCarlos/ToDoList/issues"
+  },
+  "homepage": "https://github.com/TorresGodoyCarlos/ToDoList#readme"
+}
